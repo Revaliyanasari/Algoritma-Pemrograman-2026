@@ -39,6 +39,11 @@ ALGORITMA MenentukanJenisAkarKuadratBerdasarkanDiskriminan
 
 BEGIN 
     INPUT a, b, c
+```text
+ALGORITMA MenentukanJenisAkarKuadratBerdasarkanDiskriminan
+
+BEGIN 
+    INPUT a, b, c
     IF a == 0 THEN
         OUTPUT "Bukan persamaan kuadrat (a tidak boleh sama dengan 0)"
     ELSE
@@ -53,6 +58,7 @@ BEGIN
         END IF 
     END IF
 END
+```
 
 ---
 
