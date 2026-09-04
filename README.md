@@ -61,8 +61,11 @@ END
 ```
 
 ---
+## 4. Flowchart
 
-## 4. Test Case
+![Flowchart Persamaan Kuadrat](flowchart.jpeg)
+
+## 5. Test Case
 
 | Test Case | Input (a, b, c) | Perhitungan (D = b² - 4ac) | Output |
 | :--- | :--- | :--- | :--- |
